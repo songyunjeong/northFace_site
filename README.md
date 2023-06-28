@@ -1,4 +1,4 @@
-# North Face 사이트
+# THE NORTH FACE 사이트
 
 레이아웃 구성을 익히기 위해 진행한 실습파일 입니다.
 
